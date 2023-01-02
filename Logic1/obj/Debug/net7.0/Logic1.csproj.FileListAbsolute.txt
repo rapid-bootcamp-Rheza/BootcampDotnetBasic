@@ -1,0 +1,15 @@
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\Logic1\bin\Debug\net7.0\Logic1.exe
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\Logic1\bin\Debug\net7.0\Logic1.deps.json
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\Logic1\bin\Debug\net7.0\Logic1.runtimeconfig.json
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\Logic1\bin\Debug\net7.0\Logic1.dll
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\Logic1\bin\Debug\net7.0\Logic1.pdb
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\Logic1\obj\Debug\net7.0\Logic1.csproj.AssemblyReference.cache
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\Logic1\obj\Debug\net7.0\Logic1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\Logic1\obj\Debug\net7.0\Logic1.AssemblyInfoInputs.cache
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\Logic1\obj\Debug\net7.0\Logic1.AssemblyInfo.cs
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\Logic1\obj\Debug\net7.0\Logic1.csproj.CoreCompileInputs.cache
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\Logic1\obj\Debug\net7.0\Logic1.dll
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\Logic1\obj\Debug\net7.0\refint\Logic1.dll
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\Logic1\obj\Debug\net7.0\Logic1.pdb
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\Logic1\obj\Debug\net7.0\Logic1.genruntimeconfig.cache
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\Logic1\obj\Debug\net7.0\ref\Logic1.dll

@@ -1,0 +1,15 @@
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\Statement\bin\Debug\net7.0\Statement.exe
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\Statement\bin\Debug\net7.0\Statement.deps.json
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\Statement\bin\Debug\net7.0\Statement.runtimeconfig.json
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\Statement\bin\Debug\net7.0\Statement.dll
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\Statement\bin\Debug\net7.0\Statement.pdb
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\Statement\obj\Debug\net7.0\Statement.csproj.AssemblyReference.cache
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\Statement\obj\Debug\net7.0\Statement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\Statement\obj\Debug\net7.0\Statement.AssemblyInfoInputs.cache
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\Statement\obj\Debug\net7.0\Statement.AssemblyInfo.cs
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\Statement\obj\Debug\net7.0\Statement.csproj.CoreCompileInputs.cache
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\Statement\obj\Debug\net7.0\Statement.dll
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\Statement\obj\Debug\net7.0\refint\Statement.dll
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\Statement\obj\Debug\net7.0\Statement.pdb
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\Statement\obj\Debug\net7.0\Statement.genruntimeconfig.cache
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\Statement\obj\Debug\net7.0\ref\Statement.dll
