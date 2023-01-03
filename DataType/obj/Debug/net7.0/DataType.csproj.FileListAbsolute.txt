@@ -1,0 +1,15 @@
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\DataType\bin\Debug\net7.0\DataType.exe
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\DataType\bin\Debug\net7.0\DataType.deps.json
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\DataType\bin\Debug\net7.0\DataType.runtimeconfig.json
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\DataType\bin\Debug\net7.0\DataType.dll
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\DataType\bin\Debug\net7.0\DataType.pdb
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\DataType\obj\Debug\net7.0\DataType.csproj.AssemblyReference.cache
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\DataType\obj\Debug\net7.0\DataType.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\DataType\obj\Debug\net7.0\DataType.AssemblyInfoInputs.cache
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\DataType\obj\Debug\net7.0\DataType.AssemblyInfo.cs
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\DataType\obj\Debug\net7.0\DataType.csproj.CoreCompileInputs.cache
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\DataType\obj\Debug\net7.0\DataType.dll
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\DataType\obj\Debug\net7.0\refint\DataType.dll
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\DataType\obj\Debug\net7.0\DataType.pdb
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\DataType\obj\Debug\net7.0\DataType.genruntimeconfig.cache
+D:\Bootcampjava\BootcampDotnetBasic\DotnetBasic\DataType\obj\Debug\net7.0\ref\DataType.dll

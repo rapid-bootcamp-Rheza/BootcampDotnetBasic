@@ -11,13 +11,12 @@ namespace Logic2
         public Logic2Soal9() { }
         public static void Cetak9(int n)
         {
-            int nilaiTengah = n / 2;
+            int kolom = 0;
             for (int i = 0; i < n; i++)
             {
-                int angka = 1;
                 for (int j = 0; j < n; j++)
                 {
-                    if (i+j >= nilaiTengah + n - 1)
+                    if (i==0 && j == n/2 || j==0 && i == n/2)
                     {
                         Console.Write(angka+"\t");
                     }
