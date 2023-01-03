@@ -25,8 +25,31 @@ namespace InheritanceSample
             // EmptyClassExample();
             //SampleAutomobile();
 
-            BookPublisher();
+            // BookPublisher();
+
+            SampleShape();
         }
+
+        #region Shape Sample
+        public static void SampleShape()
+        {
+            Shape[] shapes = { new Rectangle(10, 12), new Square(6), new Circle(3) };
+            foreach (Shape shape in shapes)
+            {
+                Console.WriteLine($"{shape}: area, {Shape.GetArea(shape)}: "+ $"perimeter, {Shape.GetPerimeter(shape)}");
+                if (shape is Rectangle rect)
+                {
+                    Console.WriteLine($"  Is Square: {rect.IsSquare()}, Diagonal : {rect.Diagonal}");
+                    continue;
+                }
+                if (shape is Square sq)
+                {
+                    Console.WriteLine($"    Diagonal: {sq.Diagonal}");
+                    continue;
+                }
+            }
+        }
+        #endregion
 
         #region MyBook Sample
         public static void BookPublisher()
